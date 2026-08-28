@@ -15,7 +15,7 @@
 
 ### Research Findings
 
-#### Finding 1: [Descriptive heading]
+#### Finding 1: What is plastic?
 
 **What I found:**  
 Explain the information in your own words.
@@ -27,7 +27,7 @@ or manufacture.
 **Source:**  
 [Source title](paste URL here)
 
-#### Finding 2: [Descriptive heading]
+#### Finding 2: Problems caused by plastic waste 
 
 **What I found:**  
 
@@ -36,7 +36,7 @@ or manufacture.
 **Source:**  
 [Source title](paste URL here)
 
-#### Finding 3: [Descriptive heading]
+#### Finding 3: Recycling vs Reducing 
 
 **What I found:**  
 
